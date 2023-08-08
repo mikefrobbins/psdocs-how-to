@@ -82,4 +82,4 @@ This cmdlet requires a GitHub personal access token to be stored in the environm
 
 ## RELATED LINKS
 
-[Find-Issue](https://mikefrobbins.github.io/psdocs-how-to/Reference/ManageIssues/Find-Issue.html)
+[Find-Issue](../find-issue)

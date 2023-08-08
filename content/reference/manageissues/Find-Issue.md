@@ -153,4 +153,4 @@ This cmdlet requires a GitHub personal access token to be stored in the environm
 
 ## RELATED LINKS
 
-[Add-ClosingComment](https://mikefrobbins.github.io/psdocs-how-to/Reference/ManageIssues/Add-ClosingComment.html)
+[Add-ClosingComment](../add-closingcomment)
