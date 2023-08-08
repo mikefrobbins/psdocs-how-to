@@ -13,10 +13,10 @@ This module contains functions to query for issues in GitHub repositories and ad
 
 ## ManageIssues Cmdlets
 
-### [Add-ClosingComment](Add-ClosingComment.md)
+### [Add-ClosingComment](add-closingcomment)
 
 Adds a comment to a list of issues.
 
-### [Find-Issue](Find-Issue.md)
+### [Find-Issue](find-issue)
 
 Returns a list of stale issues from a GitHub repository.
