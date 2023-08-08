@@ -1,5 +1,6 @@
 ---
 title: 'PlatyPS - A tool for PowerShell MAML'
+weight: 8
 ---
 
 ![PlatyPS - A tool for PowerShell MAML][04]

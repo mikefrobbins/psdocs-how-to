@@ -1,5 +1,6 @@
 ---
 title: 'Update-Help process'
+weight: 6
 ---
 
 ![Update-Help process][02]

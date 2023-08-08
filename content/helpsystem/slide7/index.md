@@ -1,5 +1,6 @@
 ---
 title: 'Platypus - a strange looking mammal'
+weight: 7
 ---
 
 ![Platypus - a strange looking mammal][02]

@@ -1,5 +1,6 @@
 ---
 title: 'Supporting Update-Help'
+weight: 5
 ---
 
 ![Supporting Update-Help][03]
