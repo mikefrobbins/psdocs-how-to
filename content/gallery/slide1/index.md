@@ -3,8 +3,6 @@ title: Publishing a module to the PowerShell Gallery
 weight: 1
 ---
 
-# Publishing a module to the PowerShell Gallery
-
 ![Publishing a module to the PowerShell Gallery][01]
 
 [Next][02]

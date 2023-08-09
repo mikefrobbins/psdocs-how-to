@@ -3,8 +3,6 @@ title: Publish to the PowerShell Gallery
 weight: 7
 ---
 
-# Publish to the PowerShell Gallery
-
 ![Publish to the PowerShell Gallery][05]
 
 ## Publishing requirements

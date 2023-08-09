@@ -2,7 +2,6 @@
 title: Save your API Key
 weight: 4
 ---
-# Save your API Key
 
 ![Save your API Key][04]
 

@@ -3,8 +3,6 @@ title: Create an API Key
 weight: 3
 ---
 
-# Create an API key
-
 ![Create an API key][05]
 
 The PowerShell Gallery supports creating multiple API keys to support a range of publishing

@@ -3,8 +3,6 @@ title: PowerShell Gallery Account
 weight: 2
 ---
 
-# PowerShell Gallery Account
-
 ![PowerShell Gallery Account][05]
 
 The minimum requirements to publish an item to the PowerShell Gallery are:
