@@ -1,8 +1,11 @@
-# GitHub workflow for a making changes
+---
+title: GitHub workflow for single clone
+weight: 2
+---
 
-The following image illustrates the workflow for using Git and GitHub to create a new post for the
-Community blog. The step shown in red is a one-time action for each machine you work on. The
-numbered steps (in black) are described in the table below.
+The following image illustrates the workflow for using Git and GitHub to add or change content using
+a working branch for a single repository. The step shown in red is a one-time action for each
+machine you work on. The numbered steps (in black) are described in the table below.
 
 ![Single clone GitHub workflow](psmoduleproject-gitflow.png)
 

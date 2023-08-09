@@ -1,4 +1,7 @@
-# GitHub workflow for a forked repository
+---
+title: GitHub workflow for a forked repository
+weight: 1
+---
 
 The following image illustrates the workflow for using Git and GitHub to update files in the
 PowerShell-Docs repository. The steps shown in red are a one-time action for each new repository you
