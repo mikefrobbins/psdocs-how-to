@@ -3,8 +3,6 @@ title: Module manifest metadata
 weight: 5
 ---
 
-# Module manifest metadata
-
 ![Module manifest metadata][05]
 
 The PowerShell Gallery provides information to gallery users drawn from metadata fields that are

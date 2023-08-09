@@ -3,8 +3,6 @@ title: Test your module and metadata
 weight: 6
 ---
 
-# Test your module and metadata
-
 ![Test your module and metadata][06]
 
 Before you publish your module to the PowerShell Gallery, you ensure that it works as expected and
