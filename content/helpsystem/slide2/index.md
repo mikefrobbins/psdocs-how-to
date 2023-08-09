@@ -1,5 +1,6 @@
 ---
 title: 'Sources of help'
+weight: 2
 ---
 
 ![Sources of help][03]

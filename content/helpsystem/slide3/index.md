@@ -1,5 +1,6 @@
 ---
 title: 'Features of Help'
+weight: 3
 ---
 
 ![Features of Help][02]

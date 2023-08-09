@@ -1,5 +1,6 @@
 ---
 title: 'PlatyPS Workflow'
+weight: 9
 ---
 
 ![PlatyPS Workflow][03]

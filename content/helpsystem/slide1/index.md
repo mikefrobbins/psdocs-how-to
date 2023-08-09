@@ -1,5 +1,6 @@
 ---
 title: 'Unlocking the secrets of PowerShell Help'
+weight: 1
 ---
 
 ![Unlocking the secrets of PowerShell Help][01]
