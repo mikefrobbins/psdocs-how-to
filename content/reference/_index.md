@@ -1,6 +1,6 @@
 ---
-title: Reference
-weight: 9
+title: 'Module Reference'
+weight: 99
 ---
 
 - [ManageIssues Module](manageissues)
