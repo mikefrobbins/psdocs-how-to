@@ -1,7 +1,7 @@
 ---
 external help file: ManageIssues-help.xml
 Module Name: ManageIssues
-online version: https://mikefrobbins.github.io/psdocs-how-to/Reference/ManageIssues/Find-Issue.html
+online version: https://mikefrobbins.github.io/psdocs-how-to/reference/manageissues/find-issue
 schema: 2.0.0
 title: Find-Issue
 ---

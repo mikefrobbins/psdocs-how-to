@@ -40,7 +40,10 @@ $Env:GITHUB_TOKEN.
 
 #>
 function Find-Issue {
-    [CmdletBinding(DefaultParameterSetName = 'ByAgeDays')]
+    [CmdletBinding(
+        DefaultParameterSetName = 'ByAgeDays',
+        HelpUri = 'https://mikefrobbins.github.io/psdocs-how-to/reference/manageissues/find-issue'
+    )]
     param(
         [Parameter(Mandatory, ParameterSetName = 'ByAgeDays')]
         [uint32]$OlderThanDays,
@@ -155,6 +158,9 @@ This cmdlet requires a GitHub personal access token to be stored in the environm
 $Env:GITHUB_TOKEN.
 #>
 function Add-ClosingComment {
+    [CmdletBinding(
+        HelpUri = 'https://mikefrobbins.github.io/psdocs-how-to/reference/manageissues/add-closingcomment'
+    )]
     param (
         [Parameter(Mandatory, Position = 0)]
         [ValidateScript({Test-Path $_})]
