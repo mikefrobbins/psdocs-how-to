@@ -24,10 +24,10 @@ In this workshop, tou will learn:
 This workshop was created by Mike Robbins and Sean Wheeler.
 
 
-|                      [Mike F. Robbins][mrf-com] - Senior Content Developer for Azure PowerShell                      |
-| :------------------------------------------------------------------------------------------------------------------: |
-|                                      ![mikefrobbins](mikefrobbins-150x150.jpg)                                       |
-| [![Twitter](twitter.svg)][mrf-twitter] [![GitHub](github.svg)][mrf-github] [![LinkedIn](linkedin.svg)][mrf-linkedin] |
+|                [Mike F. Robbins][mrf-com] - Senior Content Developer for Azure PowerShell                 |
+| :-------------------------------------------------------------------------------------------------------: |
+|                                 ![mikefrobbins](mikefrobbins-150x150.jpg)                                 |
+| [![Twitter][img-twit]][mrf-twitter] [![GitHub][img-gh]][mrf-github] [![LinkedIn][img-link]][mrf-linkedin] |
 
 Mike F. Robbins is the lead technical writer for [Azure PowerShell][azure-ps] at Microsoft and a
 former Microsoft MVP. He is a PowerShell SME, automator, efficiency expert, lifelong learner, and a
@@ -38,10 +38,10 @@ published author:
 - Co-author of [Windows PowerShell TFM 4th Edition][ps-tfm-4]
 - Contributing author in the [PowerShell Deep Dives][ps-deep-dives] book
 
-|                         [Sean Wheeler][sdw-web] - Principal Content Developer for PowerShell                         |
-| :------------------------------------------------------------------------------------------------------------------: |
-|                                             ![sdwheeler](sdwheeler.png)                                              |
-| [![Twitter](twitter.svg)][sdw-twitter] [![GitHub](github.svg)][sdw-github] [![LinkedIn](linkedin.svg)][sdw-linkedin] |
+|                   [Sean Wheeler][sdw-web] - Principal Content Developer for PowerShell                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|                                        ![sdwheeler](sdwheeler.png)                                        |
+| [![Twitter][img-twit]][sdw-twitter] [![GitHub][img-gh]][sdw-github] [![LinkedIn][img-link]][sdw-linkedin] |
 
 Sean Wheeler is the lead documentarian for [PowerShell][ps] at Microsoft. For nearly 25 years at
 Microsoft, Sean has taught many workshops on scripting, debugging, and advanced troubleshooting.
@@ -68,3 +68,6 @@ with Hugo and GitHub Pages.
 [sdw-linkedin]: https://linkedin.com/in/scriptingsean
 [sdw-twitter]: https://twitter.com/swsamwa
 [sdw-web]: https://seanonit.wordpress.com/about/
+[img-twit]: twitter.svg?classes=inline&lightbox=false
+[img-gh]: github.svg?classes=inline&lightbox=false
+[img-link]: linkedin.svg?classes=inline&lightbox=false
