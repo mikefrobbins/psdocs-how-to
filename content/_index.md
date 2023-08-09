@@ -26,7 +26,7 @@ This workshop was created by Mike Robbins and Sean Wheeler.
 
 |                [Mike F. Robbins][mrf-com] - Senior Content Developer for Azure PowerShell                 |
 | :-------------------------------------------------------------------------------------------------------: |
-|                                 ![mikefrobbins](mikefrobbins-150x150.jpg)                                 |
+|                                         ![mikefrobbins][img-mrf]                                          |
 | [![Twitter][img-twit]][mrf-twitter] [![GitHub][img-gh]][mrf-github] [![LinkedIn][img-link]][mrf-linkedin] |
 
 Mike F. Robbins is the lead technical writer for [Azure PowerShell][azure-ps] at Microsoft and a
@@ -40,7 +40,7 @@ published author:
 
 |                   [Sean Wheeler][sdw-web] - Principal Content Developer for PowerShell                    |
 | :-------------------------------------------------------------------------------------------------------: |
-|                                        ![sdwheeler](sdwheeler.png)                                        |
+|                                           ![sdwheeler][img-sdw]                                           |
 | [![Twitter][img-twit]][sdw-twitter] [![GitHub][img-gh]][sdw-github] [![LinkedIn][img-link]][sdw-linkedin] |
 
 Sean Wheeler is the lead documentarian for [PowerShell][ps] at Microsoft. For nearly 25 years at
@@ -71,3 +71,5 @@ with Hugo and GitHub Pages.
 [img-twit]: twitter.svg?classes=inline&lightbox=false
 [img-gh]: github.svg?classes=inline&lightbox=false
 [img-link]: linkedin.svg?classes=inline&lightbox=false
+[img-mrf]: mikefrobbins-150x150.jpg?lightbox=false
+[img-sdw]: sdwheeler.png?lightbox=false
