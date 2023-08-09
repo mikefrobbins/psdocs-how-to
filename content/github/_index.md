@@ -1,5 +1,5 @@
 ---
-title: 'Understanding the GitHub Workflow'
+title: 'GitHub Workflow'
 weight: 2
 ---
 
