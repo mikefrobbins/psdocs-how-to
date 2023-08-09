@@ -6,8 +6,6 @@ schema: 2.0.0
 title: Find-Issue
 ---
 
-# Find-Issue
-
 ## SYNOPSIS
 Returns a list of stale issues from a GitHub repository.
 
@@ -155,4 +153,4 @@ This cmdlet requires a GitHub personal access token to be stored in the environm
 
 ## RELATED LINKS
 
-[Add-ClosingComment](https://mikefrobbins.github.io/psdocs-how-to/Reference/ManageIssues/Add-ClosingComment.html)
+[Add-ClosingComment](../add-closingcomment)

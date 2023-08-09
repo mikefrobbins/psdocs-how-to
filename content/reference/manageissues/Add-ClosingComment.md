@@ -6,8 +6,6 @@ schema: 2.0.0
 title: Add-ClosingComment
 ---
 
-# Add-ClosingComment
-
 ## SYNOPSIS
 Adds a comment to a list of issues.
 
@@ -84,4 +82,4 @@ This cmdlet requires a GitHub personal access token to be stored in the environm
 
 ## RELATED LINKS
 
-[Find-Issue](https://mikefrobbins.github.io/psdocs-how-to/Reference/ManageIssues/Find-Issue.html)
+[Find-Issue](../find-issue)
