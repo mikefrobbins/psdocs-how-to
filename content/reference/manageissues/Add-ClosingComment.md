@@ -1,7 +1,7 @@
 ---
 external help file: ManageIssues-help.xml
 Module Name: ManageIssues
-online version: https://mikefrobbins.github.io/psdocs-how-to/Reference/ManageIssues/Add-ClosingComment.html
+online version: https://mikefrobbins.github.io/psdocs-how-to/reference/manageissues/add-closingcomment
 schema: 2.0.0
 title: Add-ClosingComment
 ---

@@ -30,6 +30,6 @@
         }
 
     }
-    HelpInfoUri          = 'https://mikefrobbins.github.io/psdocs-how-to/help/1.0.2/'
+    HelpInfoUri          = 'https://mikefrobbins.github.io/psdocs-how-to/module/ManageIssues/1.0.2/'
 }
 
