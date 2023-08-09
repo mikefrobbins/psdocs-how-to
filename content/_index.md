@@ -43,7 +43,7 @@ published author:
 |                                             ![sdwheeler](sdwheeler.png)                                              |
 | [![Twitter](twitter.svg)][sdw-twitter] [![GitHub](github.svg)][sdw-github] [![LinkedIn](linkedin.svg)][sdw-linkedin] |
 
-Sean Wheeler the lead documentarian for [PowerShell][ps] at Microsoft. For nearly 25 years at
+Sean Wheeler is the lead documentarian for [PowerShell][ps] at Microsoft. For nearly 25 years at
 Microsoft, Sean has taught many workshops on scripting, debugging, and advanced troubleshooting.
 Using his scripting expertise, he created tools to help customers collect and analyze data used to
 support and optimize their environments.
