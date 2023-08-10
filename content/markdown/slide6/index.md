@@ -45,9 +45,5 @@ Renders as:
 
 This is an image of thethe PowerShell Hero: ![PowerShell Hero](pshero-110x110.png)
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide5
-[02]: ../slide7
 [03]: slide6.png

@@ -20,11 +20,7 @@ expiration date.
 
 For more information, see [Managing API keys][04].
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide2
-[02]: ../slide4
 [03]: api-key-props.png
 [04]: https://learn.microsoft.com/powershell/gallery/how-to/managing-profile/creating-apikeys
 [05]: slide3.png

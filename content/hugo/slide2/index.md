@@ -45,9 +45,5 @@ Here are some features and characteristics of Hugo:
 If you're considering creating a static website or moving away from a dynamic CMS, Hugo is a strong
 contender to consider, especially if you prioritize speed and ease of use.
 
-[Previous][02] | [Next][03]
-
 <!-- link references -->
 [01]: slide2.png
-[02]: ../
-[03]: ../slide3

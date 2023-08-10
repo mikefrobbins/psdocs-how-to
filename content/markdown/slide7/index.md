@@ -29,12 +29,7 @@ Renders as:
 | 1234    | 1234           |            1234 |   ABC    |
 | ABC     | 1234           |            1234 |   1234   |
 
-
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide6
-[02]: ../slide8
 [03]: https://github.github.com/gfm/
 [04]: https://spec.commonmark.org/0.30/
 [05]: slide7.png

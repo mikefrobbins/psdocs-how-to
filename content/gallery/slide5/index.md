@@ -40,11 +40,7 @@ For more information, see the following articles:
 - [Package metadata values that impact the PowerShell Gallery UI][03]
 - [about_Module_Manifests][04]
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide4
-[02]: ../slide6
 [03]: https://learn.microsoft.com/powershell/gallery/concepts/package-manifest-affecting-ui
 [04]: https://learn.microsoft.com/powershell/module/microsoft.powershell.core/about/about_module_manifests
 [05]: slide5.png

@@ -15,10 +15,6 @@ implementations to both intentionally and accidentally diverge from the original
 addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous
 specification and test suite for Markdown." -- source: [Wikipedia][03]
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide1
-[02]: ../slide3
 [03]: https://wikipedia.org/wiki/Markdown
 [04]: slide2.png
