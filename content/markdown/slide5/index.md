@@ -112,9 +112,5 @@ This example renders as:
 
     > This quote block is indented four spaces.
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide4
-[02]: ../slide6
 [03]: slide5.png

@@ -26,11 +26,7 @@ that it follows best practices.
 - [PSScriptAnalyzer module][04]
 - [Pester - The ubiquitous test and mock framework for PowerShell][05]
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide5
-[02]: ../slide7
 [03]: https://learn.microsoft.com/powershell/module/microsoft.powershell.core/test-modulemanifest
 [04]: https://learn.microsoft.com/powershell/utility-modules/psscriptanalyzer/overview
 [05]: https://pester.dev/

@@ -17,10 +17,7 @@ Copy the key and store is somewhere safe. You need it to publish your module.
 > displayed. It will not be accessible after the page is refreshed. If you lose the key value, you
 > must use **Regenerate**, and copy the key after it's regenerated.
 
-[Previous][01] | [Next][02]
 
 <!-- link references -->
-[01]: ../slide3
-[02]: ../slide5
 [03]: new-api-key.png
 [04]: slide4.png

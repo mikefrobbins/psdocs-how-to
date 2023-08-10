@@ -23,11 +23,8 @@ The minimum requirements to publish an item to the PowerShell Gallery are:
 
 For more information, see [Creating and publishing an item][03]
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide1
-[02]: ../slide3
+
 [03]: https://learn.microsoft.com/powershell/gallery/how-to/publishing-packages/publishing-a-package
 [04]: https://www.powershellgallery.com
 [05]: slide2.png

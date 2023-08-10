@@ -47,11 +47,7 @@ Renders as:
 
 ###### Subheading 4 (H6)
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide2
-[02]: ../slide4
 [03]: https://spec.commonmark.org/0.30/#atx-headings
 [04]: https://spec.commonmark.org/0.30/#setext-headings
 [05]: slide3.png

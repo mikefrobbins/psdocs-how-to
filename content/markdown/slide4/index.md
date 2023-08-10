@@ -29,11 +29,7 @@ The PowerShell-Docs Style Guide has recommendations for how to use formatting in
 - [Editorial checklist][03]
 - [Markdown best practices][04]
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide3
-[02]: ../slide5
 [03]: https://learn.microsoft.com/powershell/scripting/community/contributing/editorial-checklist
 [04]: https://learn.microsoft.com/powershell/scripting/community/contributing/general-markdown
 [05]: https://learn.microsoft.com/powershell/scripting/community/contributing/powershell-style-guide

@@ -70,10 +70,6 @@ see and can cause problems if there are extra spaces at the end of the line.
 
 For more information, see [Markdown for code samples][03].
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide7
-[02]: ../slide9
 [03]: https://learn.microsoft.com/powershell/scripting/community/contributing/powershell-style-guidemarkdown-for-code-samples
 [04]: slide8.png

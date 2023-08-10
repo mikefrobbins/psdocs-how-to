@@ -33,11 +33,7 @@ documentation, or unlist a version of the module.
 - [Publish-Module][04]
 - [Publish-PSResource][03]
 
-[Previous][01] | [Next][02]
-
 <!-- link references -->
-[01]: ../slide6
-[02]: ../slide8
 [03]: https://learn.microsoft.com/powershell/module/microsoft.powershell.psresourceget/publish-psresource
 [04]: https://learn.microsoft.com/powershell/module/powershellget/publish-module
 [05]: slide7.png

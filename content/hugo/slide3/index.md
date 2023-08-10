@@ -51,9 +51,5 @@ Remember, there are two variants of Hugo: one with and one without extended feat
 support). If you need the extended features, make sure to get the 'extended' version from the
 releases page or install accordingly based on the platform instructions.
 
-[Previous][02] | [Next][03]
-
 <!-- link references -->
 [01]: slide3.png
-[02]: ../slide2
-[03]: ../slide4
