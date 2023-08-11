@@ -15,8 +15,7 @@ The minimum requirements to publish an item to the PowerShell Gallery are:
 
 ## Creating a PowerShell Gallery Account
 
-1. Go to [https://www.powershellgallery.com][04] and click on **Sign
-   in**.
+1. Go to [https://www.powershellgallery.com][04] and click on **Sign in**.
 1. Select the account you want to use and sign in.
 1. Create a username for the PowerShell Gallery, review the **Terms of Use** and **Privacy Policy**,
    then click **Register**.

@@ -23,9 +23,5 @@ these features. Some these features require content to be written, such as examp
 descriptions of parameters. Others features require you to add metadata attributes to your source
 code.
 
-[Previous][01] | [Next][03]
-
 <!-- link references -->
-[01]: ../slide2
 [02]: slide3.png
-[03]: ../slide4

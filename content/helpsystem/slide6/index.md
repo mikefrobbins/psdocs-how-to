@@ -95,9 +95,5 @@ There are several important details to keep in mind when you publish help for yo
   - `<ModuleGuid>` is all lowercase
   - `<Locale>` uses lowercase language code and uppercase country code, for example `en-US`
 
-[Previous][01] | [Next][03]
-
 <!-- link references -->
-[01]: ../slide5
 [02]: slide6.png
-[03]: ../slide7

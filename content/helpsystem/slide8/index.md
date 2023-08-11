@@ -31,11 +31,7 @@ to use [Hugo][01].
 **PlatyPS** is an open-source tool that started as a hackathon project to make the creation and
 maintenance of MAML easier.
 
-[Previous][03] | [Next][05]
-
 <!-- link references -->
 [01]: https://gohugo.io/
 [02]: https://learn.microsoft.com/powershell/utility-modules/platyps/overview
-[03]: ../slide7
 [04]: slide8.png
-[05]: ../slide9

@@ -8,7 +8,7 @@ This web site was created to host the content for a workshop created for PowerSh
 Go beyond comment-based help. Bring your own module and learn how to create the documentation to
 support it.
 
-In this workshop, tou will learn:
+In this workshop, you will learn:
 
 - The basics of writing in Markdown
 - How to use Git/GitHub for source control
@@ -21,7 +21,7 @@ In this workshop, tou will learn:
 
 ## About the authors
 
-This workshop was created by Mike Robbins and Sean Wheeler.
+This workshop was created by Mike F. Robbins and Sean Wheeler.
 
 
 |                [Mike F. Robbins][mrf-com] - Senior Content Developer for Azure PowerShell                 |

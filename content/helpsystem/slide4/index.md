@@ -43,11 +43,7 @@ For more information, see the following articles:
 - [about_Functions_CmdletBindingAttribute][02]
 - [CmdletBindingAttribute Class][01]
 
-[Previous][03] | [Next][05]
-
 <!-- link references -->
 [01]: https://learn.microsoft.com/dotnet/api/system.management.automation.cmdletbindingattribute
 [02]: https://learn.microsoft.com/powershell/module/microsoft.powershell.core/about/about_functions_cmdletbindingattribute
-[03]: ../slide3
 [04]: slide4.png
-[05]: ../slide5
