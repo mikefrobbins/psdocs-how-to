@@ -1,6 +1,6 @@
 ---
 title: GitHub workflow for a forked repository
-weight: 1
+weight: 3
 ---
 
 The following image illustrates the workflow for using Git and GitHub to update files in the
