@@ -1,26 +1,26 @@
 ---
-title: GitHub workflow for single clone
-weight: 2
+title: 'What is Git and GitHub?'
+weight: 1
 ---
 
-The following image illustrates the workflow for using Git and GitHub to add or change content using
-a working branch for a single repository. The step shown in red is a one-time action for each
-machine you work on. The numbered steps (in black) are described in the table below.
+![What is Git and GitHub?](Slide2.PNG)
 
-![Single clone GitHub workflow](psmoduleproject-gitflow.png)
+## What is Git?
 
-| Steps |       Description of steps        |                                                                                                                                                   Git command / GitHub actions                                                                                                                                                   |
-| :---: | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Clone the repo (once per machine) | `git clone https://github.com/<your-account>/PSModuleProject`                                                                                                                                                                                                                                                                    |
-|   0   | Checkout the main branch          | `git checkout main`                                                                                                                                                                                                                                                                                                              |
-|   1   | Sync the main branch              | `git pull origin main`                                                                                                                                                                                                                                                                                                           |
-|   2   | Create a new working branch       | `git checkout -b v1release`                                                                                                                                                                                                                                                                                                      |
-|   3   | Create new content                | Use VS Code to create or edit files                                                                                                                                                                                                                                                                                              |
-|   4   | Add changes for Git tracking      | `git add -A`                                                                                                                                                                                                                                                                                                                     |
-|   5   | Commit changes to local repo      | `git commit -m 'commit message'`                                                                                                                                                                                                                                                                                                 |
-|   6   | Push working branch to origin     | `git push origin v1release`                                                                                                                                                                                                                                                                                                      |
-|   7   | Submit pull request               | Go to `https://github.com/<your-account>/PSModuleProject/pulls` and click the **New pull request** button.<br><br> `Base repository: your-account/PSModuleProject` `base: main` **<--** `head repository: your-account/PSModuleProject` `compare: v1release` <br><br>Fill out the pull request description and click **Submit**. |
-|   8   | PR is reviewed                    | Make the necessary changes based on the review feedback.                                                                                                                                                                                                                                                                         |
-|   9   | PR is merged                      | Go to step 10                                                                                                                                                                                                                                                                                                                    |
-|  10   | Cleanup unneeded branch info      | `git checkout main`<br>`git push origin --delete v1release`<br>`git branch -D v1release`<br><br>The `git push` command deletes the branch in your fork and deletes the tracking branch from your local repo. The `git branch` command delete the branch from your local repo.                                                    |
-|  11   | Start new post                    | Go to step 0                                                                                                                                                                                                                                                                                                                     |
+Git is a distributed version control system, or DVCS, that tracks the history of changes as people
+and teams collaborate on projects together. As developers make changes to the project, any earlier
+version of the project can be recovered at any time. In a DVCS, every developer has a full copy of
+the project and project history. Unlike once popular centralized version control systems, DVCSs
+don't need a constant connection to a central repository.
+
+## What is GitHub?
+
+GitHub hosts Git repositories and provides developers with tools to ship better code through command
+line features, issues (threaded discussions), pull requests, and code review. GitHub builds
+collaboration directly into the development process. Work is organized into repositories where
+developers can outline requirements or direction and set expectations for team members. Then, using
+the GitHub flow, developers simply create a branch to work on updates, commit changes to save them,
+open a pull request to propose and discuss changes, and merge pull requests once everyone is on the
+same page.
+
+(source: [GitHub Docs](https://docs.github.com/en/get-started/using-git/about-git))
