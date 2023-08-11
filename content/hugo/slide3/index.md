@@ -41,7 +41,7 @@ go get -v github.com/gohugoio/hugo
 
 After installation, you can verify that Hugo was installed correctly:
 
-```bash
+```powershell
 hugo version
 ```
 

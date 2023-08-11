@@ -30,10 +30,6 @@ For your module to support updateable help, you must set **HelpInfoUri** propert
 manifest (`.psd1`). The value of this property is the URL to the web folder containing the HelpInfo
 XML file.
 
-[Previous][02] | [Next][04]
-
 <!-- link references -->
 [01]: https://learn.microsoft.com/powershell/scripting/developer/help/how-to-create-the-cmdlet-help-file
-[02]: ../slide4
 [03]: slide5.png
-[04]: ../slide6

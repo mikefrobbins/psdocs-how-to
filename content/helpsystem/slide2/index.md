@@ -39,11 +39,6 @@ The MAML format is very flexible and allows you to provide detailed information 
 the commands in your module. However, constructing the XML content by hand can be tedious and
 error-prone.
 
-
-[Previous][02] | [Next][04]
-
 <!-- link references -->
 [01]: https://learn.microsoft.com/powershell/module/microsoft.powershell.core/about/about_comment_based_help
-[02]: ../slide1
 [03]: slide2.png
-[04]: ../slide3
