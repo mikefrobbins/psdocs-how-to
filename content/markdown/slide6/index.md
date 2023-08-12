@@ -10,7 +10,7 @@ weight: 6
 Hyperlink in Markdown use the following syntax:
 
 ```markdown
-[<link-text>][<link-url>]
+[<link-text>](<link-url>)
 ```
 
 The `<link-text>` is the text that's displayed in the rendered output. The `<link-url>` is the URL
